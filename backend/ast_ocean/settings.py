@@ -77,7 +77,12 @@ WSGI_APPLICATION = 'ast_ocean.wsgi.application'
 
 DATABASES = {
     'default': {
-
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'defaultdb',
+        'USER': 'avnadmin',
+        'PASSWORD': 'AVNS_PrI1UmZ0lkf6LFb2391',
+        'HOST': 'pg-ab41ed3-asmblxer.b.aivencloud.com',
+        'PORT': '18977',
     }
 }
 
