@@ -9,4 +9,4 @@ python-dotenv
 pytz
 sqlparse
 tzdata
-psycopg2
+psycopg2-binary
