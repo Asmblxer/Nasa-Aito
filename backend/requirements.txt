@@ -1,0 +1,12 @@
+asgiref
+Django
+django-extensions
+django-filter
+djangorestframework
+djangorestframework-jsonapi
+inflection
+python-dotenv
+pytz
+sqlparse
+tzdata
+
